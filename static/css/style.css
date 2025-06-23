@@ -1038,7 +1038,7 @@ p {
 }
 
 #testimonial-area .section-heading h2 {
-    color: #fff
+    color: #000000
 }
 
 .client-info img {
@@ -1049,7 +1049,7 @@ p {
 }
 
 .client-info h4 {
-    color: #fff;
+    color: #000000;
     font-weight: 600;
     margin: 0
 }
@@ -1060,7 +1060,7 @@ p {
 }
 
 .client-comment p {
-    color: #fff;
+    color: #000000;
     font-style: italic
 }
 
@@ -1081,7 +1081,7 @@ p {
     width: 15px;
     height: 6px;
     margin: 0 4px;
-    background-color: #fff;
+    background-color: #000000;
     border-radius: 2px;
     margin: 0 4px;
     border: 0;
